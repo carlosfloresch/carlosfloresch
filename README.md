@@ -16,9 +16,17 @@
 
 ### 🛠️ Lenguajes y Herramientas
 
+**Lenguajes:**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,mint,linux,git,github,vscode&theme=dark&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" alt="Lenguajes" />
+  </a>
+</p>
+
+**Herramientas y Entornos:**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mint,linux,github,vscode&theme=dark" alt="Herramientas y Entornos" />
   </a>
 </p>
 
